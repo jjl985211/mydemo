@@ -1,0 +1,42 @@
+[
+{
+    "_id" : 1,
+    "username" : "kun",
+    "myconcern" : [1,2,3]
+  
+},
+{
+    "_id" : 2,
+    "username" : "xiayuhe",
+    "myconcern" : [1,2,4]
+},
+{
+    "_id" : 3,
+    "username" : "yushi",
+    "myconcern" : [1,2]
+},
+{
+    "_id" :4,
+    "username" : "zhangsan",
+    "myconcern" : [4,6,7]
+},
+{
+    "_id" : 5,
+    "username" : "biyao",
+    "myconcern" : [1,2,8]
+},
+{
+    "_id" : 6,
+    "username" : "jiang",
+    "myconcern" : [1,2,4]
+},
+{
+    "_id" : 7,
+    "username" : "qingyu",
+    "myconcern" : [1]
+},
+{
+    "_id" : 8,
+    "username" : "uuuu",
+    "myconcern" : [1,5,6]
+}]

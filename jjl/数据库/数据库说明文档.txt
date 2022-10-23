@@ -1,0 +1,7 @@
+1、这里采用的是mongoDB数据库
+2、myConcern(我的关注)表依赖于myUser（用户信息）表
+3、实现步骤：
+（1）myUser里面存放了所有的客户信息，通过连接该表，可以进行用户注册和登录验证，修改密码等操作。
+（2）myConcern表里的myconcern属性用于保存某一用户的关注数据。数组里面的数字表示myUser表里面的id。通过遍历该数组的值将某一用户的关注数据渲染到客户端形成“我的关注”模块，同时将myUser里面的
+isConcernedValue设置成“已关注”以及isConcerned设置成true就能阻止在已经关注某一用户的前提下，再次关注该用户的操作。
+（3）关于isConcernedValue和isConcerned具体用法可参照本次作品里node.js里toconcern API里面的用法

@@ -1,0 +1,84 @@
+[
+{
+    "_id" : 1,
+    "username" : "kun",
+    "password" : "665233",
+    "userimg" : "http://localhost:3000/useravatar/kun1(9).jpg",
+    "usersex" : "男",
+    "userdate" : "2000-07-06",
+    "isConcernedValue" : "关注",
+    "isConcerned":false
+},
+{
+    "_id" : 2,
+    "username" : "xiayuhe",
+    "password" : "1234",
+    "userimg" : "http://localhost:3000/useravatar/xiayuhe1(15).jpg",
+    "usernickname" : "空山星梦",
+    "usersex" : "女",
+    "userdate" : "1999-09-10",
+    "isConcernedValue" : "关注",
+    "isConcerned":false
+},
+{
+    "_id" : 3,
+    "username" : "yushi",
+    "password" : "123456",
+    "usersex" : "女",
+    "userimg" : "http://localhost:3000/useravatar/yushi1(50).jpg",
+    "userdate" : "2001-07-28",
+    "isConcernedValue" : "关注",
+    "isConcerned":false
+},
+{
+    "_id" : 4,
+    "username" : "zhangsan",
+    "password" : "775123",
+    "userimg" : "http://localhost:3000/useravatar/zhangsan1(59).jpg",
+    "usernickname" : "你三哥",
+    "usersex" : "男",
+    "userdate" : "2021-01-30",
+    "isConcernedValue" : "关注",
+    "isConcerned":false
+},
+{
+    "_id" : 5,
+    "username" : "biyao",
+    "password" : "665233",
+    "userimg" : "http://localhost:3000/useravatar/biyao1(21).jpg",
+    "usersex" : "女",
+    "usernickname" : "小瑶",
+    "userdate" : "2001-07-29",
+    "isConcernedValue" : "关注",
+    "isConcerned":false
+},
+{
+    "_id" : 6,
+    "username" : "jiang",
+    "password" : "985211",
+    "userimg" : "http://localhost:3000/useravatar/jiang1(23).jpg",
+    "usersex" : "男",
+    "userdate" : "1999-09-16",
+    "isConcernedValue" : "关注",
+    "isConcerned":false
+},
+{
+    "_id" : 7,
+    "username" : "qingyu",
+    "password" : "666666",
+    "userimg" : "http://localhost:3000/useravatar/qingyu1(16).jpg",
+    "usernickname" : "小清",
+    "usersex" : "女",
+    "isConcernedValue" : "关注",
+    "isConcerned":false
+},
+{
+    "_id" :8,
+    "username" : "uuuu",
+    "password" : "985211",
+    "userimg" : "http://localhost:3000/useravatar/uuuu1(7).jpg",
+    "usernickname" : "小雨",
+    "usersex" : "男",
+    "isConcernedValue" : "关注",
+    "isConcerned":false
+}]
